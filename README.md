@@ -1,4 +1,4 @@
-# 📂 Extrator de Dados CSV (High Performance) - Gabinete Dep. Romero Albuquerque
+# 📂 Extrator de Dados CSV
 
 Este é um utilitário de linha de comando (CLI) desenvolvido em Java para realizar a extração e filtragem de grandes volumes de dados de arquivos de texto/CSV.
 
